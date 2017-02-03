@@ -20,7 +20,7 @@ Package.onUse(function(api) {
     'kaptron:minimongoid@0.9.1',
     'momentjs:moment@2.10.6',
     'alanning:roles@1.2.13',
-    'meteorhacks:fast-render@2.10.0',
+    'staringatlights:fast-render@2.16.3',
     'meteorhacks:subs-manager@1.6.2',
     'cfs:standard-packages@0.5.9',
     'cfs:gridfs@0.0.33',
